@@ -3,7 +3,7 @@
    Any changes made to this file will be lost the next
    time the templates are compiled.
 
-   Copyright 2016 - Yichun Zhang (agentzh) - All rights reserved.
+   Copyright 2017 - Yichun Zhang (agentzh) - All rights reserved.
 ]]
 
 local _M = {}
@@ -16,12 +16,13 @@ local trans_cn = {
     ["100% Powered by OpenResty and PostgreSQL"] = "100% 由 OpenResty 和 PostgreSQL 驱动",
     ["Bad search query"] = "非法的搜索查询",
     ["Contribute on GitHub"] = "在 GitHub 上贡献你的力量",
-    ["Copyright © 2016 Yichun Zhang (agentzh)"] = "版权所有 © 2016 章亦春（agentzh）",
+    ["Copyright © 2017 Yichun Zhang (agentzh)"] = "Copyright © 2017 章亦春 (agentzh)",
     ["It’s open-source stuff so you can contribute:"] = "这是一个开源项目，所以你也可以来贡献：",
     ["No query provided."] = "没有提供任何搜索词。",
     ["No search results found"] = "没有找到任何匹配的记录",
-    ["OpenResty - Official Site"] = "OpenResty - 中文官方站",
-    ["OpenResty is a dynamic web platform based on NGINX and LuaJIT."] = "OpenResty 是一个基于 NGINX 和 LuaJIT 的 Web 平台。",
+    ["OpenResty&reg; - Official Site"] = "OpenResty&reg; - 中文官方站",
+    ["OpenResty<sup>&reg;</sup> is a dynamic web platform based on NGINX and LuaJIT."] = "OpenResty<sup>&reg;</sup> 是一款基于 NGINX 和 LuaJIT 的 Web 平台。",
+    ["OpenResty<sup>&reg;</sup> is a registered trademark owned by OpenResty Inc."] = "OpenResty<sup>&reg;</sup> OpenResty Inc. 的注册商标。",
     ["Please adjust your search query and try again."] = "请调整您的搜索查询并重试。",
     ["Query too long (more than %d bytes)."] = "查词太长了（已经超出 %d 字节）。",
     ["Scalable Web Platform by Extending NGINX with Lua"] = "通过 Lua 扩展 NGINX 实现的可伸缩的 Web 平台",

@@ -8,10 +8,11 @@
     @changes       21
 --->
 
-This bundle is mainly maintained by Yichun Zhang ([agentzh](http://agentzh.org)).
+This open source web platform is mainly maintained by Yichun Zhang ([agentzh](http://agentzh.org)).
 It was originally sponsored by [Taobao.com](http://www.taobao.com) before the
-year 2011 and it has been mainly supported by [CloudFlare](http://www.cloudflare.com) since
-then.
+year 2011 and it was mainly supported by [Cloudflare Inc.](http://www.cloudflare.com)
+between 2012 ~ 2016. Right now it is mainly supported by OpenResty Software Foundation
+and OpenResty Inc.
 
 Because most of the [Nginx](nginx.html) modules are developed by the bundle
 maintainers, it can be ensured
@@ -21,7 +22,7 @@ The bundled software components are copyrighted by the respective copyright
 holders.  Basically only components with BSD style licenses are included. If
 you find exceptions, please let me know.
 
-This web site is a dynamic web application built completely upon the OpenResty
+This web site is a dynamic web application built completely upon the OpenResty<sup>&reg;</sup>
 platform and the PostgreSQL database. The whole application is
 opensourced on [GitHub](github.html):
 

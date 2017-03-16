@@ -17,7 +17,8 @@ engine based on AJAX.
 
 This presentation was given at the [OpenResty Con 2016](https://con.openresty.org/cn/2016/) conference held in Shenzhen, China.
 
-Video recording (in Chinese): https://youtu.be/H5UFGDaf9Xk  (Visitors from mainland China should access [this MP4 video](https://openresty.org/videos/openresty-con-2016.mp4) instead)
+Video recording (in Chinese): https://youtu.be/H5UFGDaf9Xk  (Visitors from mainland China should access
+[this MP4 video](http://openresty.org/videos/openresty-con-2016.mp4) instead)
 
 Download the slides as PDF: https://openresty.org/slides/New-development-of-OpenResty-in-2016.pdf
 
@@ -32,6 +33,8 @@ Download the slides as PDF: https://openresty.org/slides/Optimizing-Lua-Applicat
 ## Building Business Systems with DSLs atop OpenResty
 
 This presentation was given at the [nginx.conf](https://www.nginx.com/nginxconf/) 2016 conference held in Austin TX, USA.
+
+Video recording (in English): https://www.youtube.com/watch?v=w2RAZLptE-U
 
 Download the slides as PDF: https://openresty.org/slides/Building-Business-Systems-with-DSLs-atop-OpenResty.pdf
 
